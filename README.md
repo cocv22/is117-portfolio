@@ -1,6 +1,6 @@
-# IS117 Portfolio — Quantum Software Career Research
+# IS117 Portfolio — Quantum Software Career Research and Plan
 
-A small, public research site comparing two employer-hosted quantum software internship descriptions and explaining how a finding can inform a **proposed** portfolio feature and an explicit **planned** acceptance check.
+A small, public documentation site combining quantum software career research with an [approved Portfolio Plan](plan.html). The research compares two original internship descriptions and connects employer findings to proposed portfolio features and planned checks.
 
 **Project status:** Research and portfolio direction only. The quantum experiment described on the site is a proposal, not a completed simulation. No private career reflection or student-specific eligibility assessment is published here.
 
@@ -14,10 +14,17 @@ The page separates **employer-stated facts**, **assumptions and interpretations*
 ## Files
 
 - `index.html` — Career research page with original source links, evidence, decisions, and planned verification.
+- `plan.html` — Review 2 portfolio Plan with audience, layout comparison, five user stories, project links, and professional-material plans.
 - `styles.css` — Responsive presentation.
 - `README.md` — Project purpose, boundaries, and publication guidance.
 
 No build system or quantum simulation is required for this research assignment.
+
+## Review 2 — Portfolio Plan
+
+The [Portfolio Plan](plan.html) records the approved quantum computing audience, recruiter-first vs. project-first comparison, five checkable user stories, project and professional links, and peer-review workflow. It documents plans, not a completed portfolio or quantum experiment. The résumé link is pending revision, and shared group members' full names and actual contributions require verification.
+
+The [shared group business repository](https://github.com/cocv22/is117_group_business) is separate from the [individual T-shirt repository](https://github.com/cocv22/is117-brand-studio). Both are included in the portfolio plan alongside this portfolio repository.
 
 ## Publish the documentation site
 
